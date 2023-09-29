@@ -18,3 +18,5 @@ The data was provided by the stakeholder who is the owner of the retail store. I
 * Excel
 * SQL(Postgresql)
 * Tableau
+# Explore the Dashboard
+You can explore the dashboard [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/Retail_Sales_Analysis_16959781305710/Dashboard1)
