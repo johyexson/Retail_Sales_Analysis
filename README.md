@@ -11,6 +11,7 @@
 - [Recommendations](#recommendations)
 - [Code](#code)
 - [Dashboard](#dashboard)
+- [Reference](#reference)
 # Introduction
 Jhorbat Retail Store is a small business enterprise that specialises in selling groceries. I approached the owner of the store, discussed with and offered to solve any business problem they might be facing, and they were willing to provide some internal data that could be used to carry out the analysis.
 # Business Problem
@@ -44,9 +45,9 @@ Exploratory Data Analysis(EDA) involves exploring the sales data to answer key q
 # Summary of Findings
 There was a downward slope in the monthly sales growth from September to December. Findings were conducted and I discovered that there was an upsurge in competition around the store area during that period, this led to decrease in customers as well as low sales. Also, Beans was the highest selling product that yielded more profit in terms of sale and revenue.
 # Recommendations
-* Focus on customer retention by offering incentives such as discounts to attract their interest
-* Conduct customer survey and utilise feeback to improve sales performance
-* Stock products that yeilded more profits and were higher in demands
+* Focus on customer retention and employ marketing strategies like offering incentives such as discounts to arouse their interest
+* Conduct customer survey and utilise feeback to improve consumer satisfaction as well as sales performance
+* Stock products that yielded more profits and were higher in demands
 # Code
 You can explore the code [here](https://github.com/johyexson/Retail_Sales_Analysis/blob/main/Retail_Sales_Analysis.sql)
 # Dashboard
