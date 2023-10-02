@@ -53,4 +53,4 @@ You can explore the code [here](https://github.com/johyexson/Retail_Sales_Analys
 # Dashboard
 You can view the dashboard I created in Tableau [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/Retail_Sales_Analysis_16959781305710/Dashboard1)
 # Reference
- - [Stack Overflow](https://stack.com)
+ - [Stack Overflow](https://stackoverflow.com/)
