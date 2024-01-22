@@ -32,14 +32,14 @@ The data was provided by the stakeholder who is the owner of the retail store. I
 * [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/Retail_Sales_Analysis_16959781305710/Dashboard1)
 # Graphs for EDA
 Exploratory Data Analysis(EDA) involves exploring the sales data to answer key questions such as:
- - What is the overall sales trend?
- - Which products are top sellers?
- - What does the Month on Month(M-o-M) sales growth look like?
 
+- What does the Month on Month(M-o-M) sales growth look like?
 ![](Graph_Image(1).png)
 
+- What is the overall sales trend?
 ![](Graph_Image(2).png)
 
+- Which products are top sellers?
 ![](Graph_Image(3).png)
 
 # Summary of Findings
