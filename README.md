@@ -13,7 +13,7 @@
 - [Dashboard](#dashboard)
 - [Reference](#reference)
 # Introduction
-This was a project I worked on for a  retail store. I approached the owner of the store, discussed with and offered to solve any business problem they might be facing, and they were willing to provide some internal data that could be used to carry out the analysis.
+This was a project I worked on for a  retail store (The name is withheld for the sake of anonymity). I approached the owner of the store, discussed with and offered to solve any business problem they might be facing, and they were willing to provide some internal data that could be used to carry out the analysis.
 # Business Problem
 How do we increase sales performance?
 # Data Source
