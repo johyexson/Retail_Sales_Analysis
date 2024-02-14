@@ -29,6 +29,8 @@ The data was provided by the stakeholder who is the owner of the retail store. I
 # Tools
 * Excel
 * SQL(PostgreSQL)
+* [PowerBI]
+
 * [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/Retail_Sales_Analysis_16959781305710/Dashboard1)
 # Graphs for EDA
 Exploratory Data Analysis(EDA) involves exploring the sales data to answer key questions such as:
