@@ -29,7 +29,7 @@ The data was provided by the stakeholder who is the owner of the retail store. I
 # Tools
 * Excel
 * SQL(PostgreSQL)
-* [PowerBI](<iframe title="Retail Sales Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTc0YTgxZTQtODYwNi00YTkyLTgyYjItNmUxNGZkZTQzNjFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>)
+* [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZTc0YTgxZTQtODYwNi00YTkyLTgyYjItNmUxNGZkZTQzNjFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 * [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/Retail_Sales_Analysis_16959781305710/Dashboard1)
 # Graphs for EDA
 Exploratory Data Analysis(EDA) involves exploring the sales data to answer key questions such as:
