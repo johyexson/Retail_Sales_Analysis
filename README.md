@@ -25,7 +25,7 @@ The data was provided by the stakeholder who is the owner of the retail store. I
 * Removed rows with null values irrelvant to the analysis
 * Constructed queries to analyse and obtain findings from the data
 * Exported the data in order to visualize and further analyse in Tableau
-* Created a dashboard to visualize the results and findings
+* Created a dashboard using PowerBI Desktop to visualize the results and findings
 # Tools
 * Excel
 * SQL(PostgreSQL)
