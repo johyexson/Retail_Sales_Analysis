@@ -34,12 +34,15 @@ The data was provided by the stakeholder who is the owner of the retail store. I
 # Graphs for EDA
 Exploratory Data Analysis(EDA) involves exploring the sales data to answer key questions such as:
 - What does the Month on Month(M-o-M) sales growth look like?
+
 ![](Graph_Image(1).png)
 
 - What is the overall sales trend?
+
 ![](Graph_Image(2).png)
 
 - Which products are top sellers?
+
 ![](Graph_Image(3).png)
 
 # Summary of Findings
