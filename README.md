@@ -52,6 +52,6 @@ There was a downward slope in the monthly sales growth from September to Decembe
 # Code
 You can explore the code [here](https://github.com/johyexson/Retail_Sales_Analysis/blob/main/Retail_Sales_Analysis.sql)
 # Dashboard
-You can view the dashboard I created in Tableau [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/Retail_Sales_Analysis_16959781305710/Dashboard1)
+You can view the dashboard I created in PowerBI [here](https://app.powerbi.com/view?r=eyJrIjoiZTc0YTgxZTQtODYwNi00YTkyLTgyYjItNmUxNGZkZTQzNjFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) and Tableau [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/Retail_Sales_Analysis_16959781305710/Dashboard1)
 # Reference
  - [Stack Overflow](https://stackoverflow.com/)
