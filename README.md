@@ -28,7 +28,7 @@ The data was provided by the stakeholder who is the owner of the retail store. I
 * Created a dashboard using PowerBI Desktop to visualize the results and findings
 
 NOTE: 
-I decided to use both visualization tools because I wanted to try out my skills in both.
+I decided to use these two visualization tools because I wanted to try out my skills in both.
 # Tools
 * Excel
 * SQL(PostgreSQL)
