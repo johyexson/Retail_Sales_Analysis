@@ -10,7 +10,7 @@
 - [Summary of Findings](#summary-of-findings)
 - [Recommendations](#recommendations)
 - [Code](#code)
-- [Dashboard](#dashboard)
+- [Dashboards](#dashboards)
 - [Reference](#reference)
 # Introduction
 This was a project I worked on for a  retail store (The name is withheld for the sake of anonymity). I approached the owner of the store, discussed with and offered to solve any business problem they might be facing, and they were willing to provide some internal data that could be used to carry out the analysis.
@@ -26,6 +26,7 @@ The data was provided by the stakeholder who is the owner of the retail store. I
 * Constructed queries to analyse and obtain findings from the data
 * Exported the data in order to visualize and further analyse in Tableau
 * Created a dashboard using PowerBI Desktop to visualize the results and findings
+NOTE: I decided to use both visualization tools because I wanted to try out my skills in both.
 # Tools
 * Excel
 * SQL(PostgreSQL)
@@ -53,7 +54,7 @@ There was a downward slope in the monthly sales growth from September to Decembe
 * Stock products that yielded more profits and were higher in demands
 # Code
 You can explore the code [here](https://github.com/johyexson/Retail_Sales_Analysis/blob/main/Retail_Sales_Analysis.sql)
-# Dashboard
-You can view the dashboard I created in PowerBI [here](https://app.powerbi.com/view?r=eyJrIjoiZTc0YTgxZTQtODYwNi00YTkyLTgyYjItNmUxNGZkZTQzNjFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) and Tableau [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/Retail_Sales_Analysis_16959781305710/Dashboard1)
+# Dashboards
+You can view the dashboards I created in PowerBI [here](https://app.powerbi.com/view?r=eyJrIjoiZTc0YTgxZTQtODYwNi00YTkyLTgyYjItNmUxNGZkZTQzNjFlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) and Tableau [here](https://public.tableau.com/app/profile/joy.johnson5229/viz/Retail_Sales_Analysis_16959781305710/Dashboard1)
 # Reference
  - [Stack Overflow](https://stackoverflow.com/)
