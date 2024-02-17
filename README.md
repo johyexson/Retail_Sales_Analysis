@@ -26,7 +26,9 @@ The data was provided by the stakeholder who is the owner of the retail store. I
 * Constructed queries to analyse and obtain findings from the data
 * Exported the data in order to visualize and further analyse in Tableau
 * Created a dashboard using PowerBI Desktop to visualize the results and findings
-NOTE: I decided to use both visualization tools because I wanted to try out my skills in both.
+
+NOTE: 
+I decided to use both visualization tools because I wanted to try out my skills in both.
 # Tools
 * Excel
 * SQL(PostgreSQL)
